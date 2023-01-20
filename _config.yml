@@ -5,7 +5,7 @@ description: Homepage of Kuosec infosec community.
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username:
+username: kuosec
 user_description: Infosec community located at Kuopio, Finland. Our purpose is to organize meetups and get-togethers focused on training and networking. Anyone interested in the Infosec field is welcome to join us, meet likeminded people and hopefully learn something new.
 user_title: Infosec Community
 email: info@kuosec.fi
